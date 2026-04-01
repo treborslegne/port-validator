@@ -1,0 +1,6 @@
+# Ports that SHOULD be closed
+# One port per line, lines starting with # are ignored
+
+23
+3389
+8080

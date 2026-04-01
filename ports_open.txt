@@ -1,0 +1,6 @@
+# Ports that SHOULD be open
+# One port per line, lines starting with # are ignored
+
+443
+80
+22

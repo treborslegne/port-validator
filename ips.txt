@@ -1,0 +1,6 @@
+# Sample IP list — replace with your actual target IPs
+# One IP per line, lines starting with # are ignored
+
+192.168.1.10
+192.168.1.11
+192.168.1.12
